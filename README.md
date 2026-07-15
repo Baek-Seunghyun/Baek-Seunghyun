@@ -14,7 +14,8 @@
 |---|---|
 | **2019 – 2020** | Machine vision — vision algorithm improvement for industrial inspection equipment |
 | **2020 – 2023** | HPC engineering — multi-GPU computing, algorithm parallelization & optimization (C++ · CUDA) |
-| **2023 – Present** | Graphics engine development (OpenGL · WebGL · WebGPU) → CTO @ ONOFFER |
+| **2023 – 2026** | Graphics engine development (OpenGL · WebGL · WebGPU) |
+| **2026 – Present** | CTO @ ONOFFER — leading company-wide AI transformation (AX): ontology-driven knowledge systems & workflow automation |
 
 **Recent work @ ONOFFER**
 
