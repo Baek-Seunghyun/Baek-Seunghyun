@@ -33,7 +33,7 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=DGO0&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub stats" />
+<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=DGO0&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub stats" />
 <img height="165" src="https://streak-stats.demolab.com?user=DGO0&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 
 </div>
