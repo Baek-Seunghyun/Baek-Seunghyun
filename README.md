@@ -6,9 +6,11 @@
 <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=DGO0&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub stats" />
 <img height="165" src="https://streak-stats.demolab.com?user=DGO0&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 
-<img height="165" src="https://raw.githubusercontent.com/DGO0/DGO0/main/cards/claude-usage.svg" alt="Claude Code usage" />
-
 </div>
+
+## ⚡ Claude Code
+
+<img width="100%" src="https://raw.githubusercontent.com/DGO0/DGO0/main/cards/claude-usage.svg" alt="Claude Code usage" />
 
 ## 💼 Experience
 
