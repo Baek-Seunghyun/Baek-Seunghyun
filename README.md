@@ -6,15 +6,6 @@
 
 </div>
 
-## 🚀 What I'm building
-
-| Project | What it is |
-|---|---|
-| **[Tikron](https://tikron.dev)** · [repo](https://github.com/ONOFFERDEV/tikron-platform) | Server-authoritative multiplayer for web games — one Durable Object per room, on the edge. Built so AI coding agents can ship a multiplayer game in one session. |
-| **[Pervue](https://pervue.io)** | Personal strengths assessment SaaS — find what you're built for. |
-| **[Psyfi](https://psyfi.shop)** | PSD → Figma converter plugin with full layer preservation. |
-| **[Traxel](https://ontooler.com)** | Raster → SVG vectorizer for Figma — Rust/VTracer trace + custom post-processing. |
-
 ## 🛠️ Stack
 
 <div align="center">
@@ -22,6 +13,8 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
