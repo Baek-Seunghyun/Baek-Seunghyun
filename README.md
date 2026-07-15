@@ -1,10 +1,4 @@
-<div align="center">
-
-![header](https://svg-banners.vercel.app/api?type=glitch&text1=BAEKSEUNGHYEON&width=820&height=150)
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&center=true&vCenter=true&width=680&color=8a8a8a&lines=%24+whoami+%E2%86%92+BAEKSEUNGHYEON+%C2%B7+CTO+%40+ONOFFER;%24+career%3A+vision+%E2%86%92+HPC+%E2%86%92+graphics+%E2%86%92+AX;%24+stack%3A+C%2B%2B+%C2%B7+CUDA+%C2%B7+TypeScript+%C2%B7+Rust)](https://github.com/DGO0)
-
-</div>
+# BAEKSEUNGHYEON
 
 ## 💼 Experience
 
