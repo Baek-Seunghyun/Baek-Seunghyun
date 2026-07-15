@@ -6,7 +6,7 @@
 <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=DGO0&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub stats" />
 <img height="165" src="https://streak-stats.demolab.com?user=DGO0&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 
-![Claude Code usage](https://img.shields.io/endpoint?url=https%3A%2F%2Fgist.githubusercontent.com%2FDGO0%2F4d51bccf6882b5133a17180b445a3de6%2Fraw%2Fclaude-usage-badge.json&style=for-the-badge&cacheSeconds=3600)
+<img height="165" src="https://raw.githubusercontent.com/DGO0/DGO0/main/cards/claude-usage.svg" alt="Claude Code usage" />
 
 </div>
 
