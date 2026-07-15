@@ -10,7 +10,9 @@
 
 ## ⚡ AI Coding
 
-<img width="100%" src="https://raw.githubusercontent.com/DGO0/DGO0/main/cards/claude-usage.svg?v=4" alt="AI coding usage" />
+<a href="https://github.com/DGO0/ai-coding-usage-card"><img width="100%" src="https://raw.githubusercontent.com/DGO0/DGO0/main/cards/claude-usage.svg?v=5" alt="AI coding usage" /></a>
+
+<sub>Want this card on your profile? → [DGO0/ai-coding-usage-card](https://github.com/DGO0/ai-coding-usage-card)</sub>
 
 ## 💼 Experience
 
