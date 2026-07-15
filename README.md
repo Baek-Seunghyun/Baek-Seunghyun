@@ -1,8 +1,8 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:2b2b2b,100:6b6b6b&height=190&section=header&text=BAEKSEUNGHYEON&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Build%20fast.%20Ship%20often.&descSize=16&descAlignY=56)
+![header](https://svg-banners.vercel.app/api?type=glitch&text1=BAEKSEUNGHYEON&width=820&height=150)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&width=620&color=8a8a8a&lines=CTO+%40+ONOFFER+%C2%B7+7+years+of+engineering;HPC+%C2%B7+Graphics+engines+%C2%B7+Multiplayer+infra;C%2B%2B+%C2%B7+CUDA+%C2%B7+TypeScript+%C2%B7+Rust+on+the+edge)](https://github.com/DGO0)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&center=true&vCenter=true&width=680&color=8a8a8a&lines=%24+whoami+%E2%86%92+BAEKSEUNGHYEON+%C2%B7+CTO+%40+ONOFFER;%24+career%3A+vision+%E2%86%92+HPC+%E2%86%92+graphics+%E2%86%92+AX;%24+stack%3A+C%2B%2B+%C2%B7+CUDA+%C2%B7+TypeScript+%C2%B7+Rust)](https://github.com/DGO0)
 
 </div>
 
@@ -16,14 +16,6 @@
 | **2020 – 2023** | HPC engineering — multi-GPU computing, algorithm parallelization & optimization (C++ · CUDA) |
 | **2023 – 2026** | Graphics engine development (OpenGL · WebGL · WebGPU) |
 | **2026 – Present** | CTO @ ONOFFER — leading company-wide AI transformation (AX): ontology-driven knowledge systems & workflow automation |
-
-**Recent work @ ONOFFER**
-
-- **Real-time multiplayer infrastructure** — [Tikron](https://tikron.dev): server-authoritative multiplayer for web games, one Durable Object per room on the edge
-- **Figma plugins** — PSD→Figma converter, Rust-based raster→SVG vectorizer, 3D snapshot tooling
-- **Web games & engines** — quarter-view 3D MMO-lite and web FPS built on Tikron, Three.js/WebGL rendering
-- **B2C SaaS** — [Pervue](https://pervue.io) strengths assessment, licensing/payment infrastructure on Cloudflare
-- **AI pipelines** — image/video generation automation, agent-driven development workflows
 
 ## 🛠️ Stack
 
