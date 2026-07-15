@@ -12,28 +12,29 @@
 | **2023 – 2026** | Graphics engine development (OpenGL · WebGL · WebGPU) |
 | **2026 – Present** | CTO @ ONOFFER — leading company-wide AI transformation (AX): ontology-driven knowledge systems & workflow automation |
 
-## 🛠️ Stack
+## 🔧 Technologies & Tools
 
-<div align="center">
+![](https://img.shields.io/badge/Code-C%2B%2B-informational?style=flat&logo=cplusplus&logoColor=white&color=2b2b2b)
+![](https://img.shields.io/badge/Code-CUDA-informational?style=flat&logo=nvidia&logoColor=white&color=2b2b2b)
+![](https://img.shields.io/badge/Code-Rust-informational?style=flat&logo=rust&logoColor=white&color=2b2b2b)
+![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=2b2b2b)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2b2b2b)
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![](https://img.shields.io/badge/Graphics-OpenGL-informational?style=flat&logo=opengl&logoColor=white&color=2b2b2b)
+![](https://img.shields.io/badge/Graphics-WebGL-informational?style=flat&logo=webgl&logoColor=white&color=2b2b2b)
+![](https://img.shields.io/badge/Graphics-WebGPU-informational?style=flat&logo=webgpu&logoColor=white&color=2b2b2b)
+![](https://img.shields.io/badge/Graphics-Three.js-informational?style=flat&logo=threedotjs&logoColor=white&color=2b2b2b)
 
-![Cloudflare Workers](https://img.shields.io/badge/Cloudflare_Workers-F38020?style=for-the-badge&logo=cloudflareworkers&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![](https://img.shields.io/badge/Web-React-informational?style=flat&logo=react&logoColor=white&color=2b2b2b)
+![](https://img.shields.io/badge/Web-Node.js-informational?style=flat&logo=nodedotjs&logoColor=white&color=2b2b2b)
+![](https://img.shields.io/badge/Web-FastAPI-informational?style=flat&logo=fastapi&logoColor=white&color=2b2b2b)
+![](https://img.shields.io/badge/Edge-Cloudflare_Workers-informational?style=flat&logo=cloudflareworkers&logoColor=white&color=2b2b2b)
 
-![Figma Plugins](https://img.shields.io/badge/Figma_Plugins-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white)
-
-</div>
+![](https://img.shields.io/badge/DB-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2b2b2b)
+![](https://img.shields.io/badge/DB-Supabase-informational?style=flat&logo=supabase&logoColor=white&color=2b2b2b)
+![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2b2b2b)
+![](https://img.shields.io/badge/Tools-Figma-informational?style=flat&logo=figma&logoColor=white&color=2b2b2b)
+![](https://img.shields.io/badge/AI-Claude_Code-informational?style=flat&logo=anthropic&logoColor=white&color=2b2b2b)
 
 ## 📊 GitHub
 
