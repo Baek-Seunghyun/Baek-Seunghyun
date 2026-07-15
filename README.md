@@ -29,24 +29,30 @@
 
 ## 🔧 Technologies & Tools
 
+**⌛ Before the AI era**
+
 ![](https://raw.githubusercontent.com/DGO0/DGO0/main/badges/code-cpp.svg)
 ![](https://raw.githubusercontent.com/DGO0/DGO0/main/badges/code-cuda.svg)
+![](https://raw.githubusercontent.com/DGO0/DGO0/main/badges/code-python.svg)
+![](https://raw.githubusercontent.com/DGO0/DGO0/main/badges/graphics-opengl.svg)
+![](https://raw.githubusercontent.com/DGO0/DGO0/main/badges/graphics-threejs.svg)
+![](https://raw.githubusercontent.com/DGO0/DGO0/main/badges/code-vba.svg)
+![](https://raw.githubusercontent.com/DGO0/DGO0/main/badges/web3-solidity.svg)
+
+**⚡ AI era**
+
 ![](https://raw.githubusercontent.com/DGO0/DGO0/main/badges/code-rust.svg)
 ![](https://raw.githubusercontent.com/DGO0/DGO0/main/badges/code-typescript.svg)
-![](https://raw.githubusercontent.com/DGO0/DGO0/main/badges/code-python.svg)
-
-![](https://raw.githubusercontent.com/DGO0/DGO0/main/badges/graphics-opengl.svg)
 ![](https://raw.githubusercontent.com/DGO0/DGO0/main/badges/graphics-webgl.svg)
 ![](https://raw.githubusercontent.com/DGO0/DGO0/main/badges/graphics-webgpu.svg)
-![](https://raw.githubusercontent.com/DGO0/DGO0/main/badges/graphics-threejs.svg)
-
 ![](https://raw.githubusercontent.com/DGO0/DGO0/main/badges/web-react.svg)
+
 ![](https://raw.githubusercontent.com/DGO0/DGO0/main/badges/web-nodejs.svg)
 ![](https://raw.githubusercontent.com/DGO0/DGO0/main/badges/web-fastapi.svg)
 ![](https://raw.githubusercontent.com/DGO0/DGO0/main/badges/edge-cf-workers.svg)
-
 ![](https://raw.githubusercontent.com/DGO0/DGO0/main/badges/db-postgresql.svg)
 ![](https://raw.githubusercontent.com/DGO0/DGO0/main/badges/db-supabase.svg)
+
 ![](https://raw.githubusercontent.com/DGO0/DGO0/main/badges/tools-docker.svg)
 ![](https://raw.githubusercontent.com/DGO0/DGO0/main/badges/tools-figma.svg)
 ![](https://raw.githubusercontent.com/DGO0/DGO0/main/badges/ai-claude-code.svg)
