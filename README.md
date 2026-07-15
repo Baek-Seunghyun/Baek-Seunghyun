@@ -12,8 +12,6 @@
 
 <a href="https://github.com/DGO0/ai-coding-usage-card"><img width="100%" src="https://raw.githubusercontent.com/DGO0/DGO0/main/cards/ai-usage-full.svg" alt="AI usage" /></a>
 
-<a href="https://github.com/DGO0/ai-coding-usage-card"><img width="100%" src="https://raw.githubusercontent.com/DGO0/DGO0/main/cards/ai-usage-combo.svg" alt="AI usage combo" /></a>
-
 <sub>Want this card on your profile? → [DGO0/ai-coding-usage-card](https://github.com/DGO0/ai-coding-usage-card)</sub>
 
 ## 💼 Experience
