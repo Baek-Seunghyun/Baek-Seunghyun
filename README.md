@@ -1,8 +1,8 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:1a2a6c,50:2a5298,100:00c6ff&height=190&section=header&text=ONOFFER&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Build%20fast.%20Ship%20often.&descSize=16&descAlignY=56)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:2b2b2b,100:6b6b6b&height=190&section=header&text=BAEKSEUNGHYEON&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Build%20fast.%20Ship%20often.&descSize=16&descAlignY=56)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&width=620&lines=Indie+builder+%40+ONOFFER;Multiplayer+infra+%C2%B7+Figma+plugins+%C2%B7+AI+tools;TypeScript+%C2%B7+Rust+%C2%B7+Python+on+the+edge)](https://github.com/DGO0)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&width=620&color=8a8a8a&lines=Indie+builder+%40+ONOFFER;Multiplayer+infra+%C2%B7+Figma+plugins+%C2%B7+AI+tools;TypeScript+%C2%B7+Rust+%C2%B7+Python+on+the+edge)](https://github.com/DGO0)
 
 </div>
 
@@ -40,6 +40,6 @@
 
 <div align="center">
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,50:2a5298,100:1a2a6c&height=110&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:6b6b6b,50:2b2b2b,100:000000&height=110&section=footer)
 
 </div>
