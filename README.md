@@ -29,7 +29,7 @@
 
 ## 🔧 Technologies & Tools
 
-**⌛ Before the AI era**
+**⌛ Before the AI era** — *handcrafted, line by line. 낭만.*
 
 ![](https://raw.githubusercontent.com/DGO0/DGO0/main/badges/code-cpp.svg)
 ![](https://raw.githubusercontent.com/DGO0/DGO0/main/badges/code-cuda.svg)
@@ -39,7 +39,7 @@
 ![](https://raw.githubusercontent.com/DGO0/DGO0/main/badges/code-vba.svg)
 ![](https://raw.githubusercontent.com/DGO0/DGO0/main/badges/web3-solidity.svg)
 
-**⚡ AI era**
+**⚡ AI era** — *shipping at the speed of thought*
 
 ![](https://raw.githubusercontent.com/DGO0/DGO0/main/badges/code-rust.svg)
 ![](https://raw.githubusercontent.com/DGO0/DGO0/main/badges/code-typescript.svg)
