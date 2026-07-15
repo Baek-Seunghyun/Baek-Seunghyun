@@ -8,9 +8,9 @@
 
 </div>
 
-## ⚡ Claude Code
+## ⚡ AI Coding
 
-<img width="100%" src="https://raw.githubusercontent.com/DGO0/DGO0/main/cards/claude-usage.svg?v=2" alt="Claude Code usage" />
+<img width="100%" src="https://raw.githubusercontent.com/DGO0/DGO0/main/cards/claude-usage.svg?v=3" alt="AI coding usage" />
 
 ## 💼 Experience
 
