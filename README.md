@@ -12,10 +12,7 @@
 
 <a href="https://github.com/DGO0/ai-coding-usage-card"><img width="100%" src="https://raw.githubusercontent.com/DGO0/DGO0/main/cards/ai-usage-full.svg" alt="AI usage" /></a>
 
-<p>
-<a href="https://github.com/DGO0/ai-coding-usage-card"><img width="49.5%" align="top" src="https://raw.githubusercontent.com/DGO0/DGO0/main/cards/ai-usage-half.svg" alt="AI usage half" /></a>
-<a href="https://github.com/DGO0/ai-coding-usage-card"><img width="49.5%" align="top" src="https://raw.githubusercontent.com/DGO0/DGO0/main/cards/ai-usage-grass.svg" alt="AI usage grass" /></a>
-</p>
+<a href="https://github.com/DGO0/ai-coding-usage-card"><img width="100%" src="https://raw.githubusercontent.com/DGO0/DGO0/main/cards/ai-usage-combo.svg" alt="AI usage combo" /></a>
 
 <sub>Want this card on your profile? → [DGO0/ai-coding-usage-card](https://github.com/DGO0/ai-coding-usage-card)</sub>
 
