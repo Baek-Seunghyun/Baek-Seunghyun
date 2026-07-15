@@ -10,7 +10,7 @@
 
 ## ⚡ AI Coding
 
-<img width="100%" src="https://raw.githubusercontent.com/DGO0/DGO0/main/cards/claude-usage.svg?v=3" alt="AI coding usage" />
+<img width="100%" src="https://raw.githubusercontent.com/DGO0/DGO0/main/cards/claude-usage.svg?v=4" alt="AI coding usage" />
 
 ## 💼 Experience
 
