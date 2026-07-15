@@ -1,0 +1,24 @@
+<svg width="495" height="195" viewBox="0 0 495 195" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Claude Code usage">
+<style>
+.t{font:600 18px 'Segoe UI',Ubuntu,sans-serif;fill:#70a5fd}
+.big{font:800 46px 'Segoe UI',Ubuntu,sans-serif;fill:#bf91f3}
+.sub{font:400 13px 'Segoe UI',Ubuntu,sans-serif;fill:#38bdae}
+.cur{font:600 15px 'Segoe UI',Ubuntu,sans-serif;fill:#c0caf5}
+.curv{font:700 16px 'Segoe UI',Ubuntu,sans-serif;fill:#38bdae}
+.foot{font:400 11px 'Segoe UI',Ubuntu,sans-serif;fill:#565f89}
+.fade{opacity:0;animation:fadeIn .8s ease-in-out forwards}
+@keyframes fadeIn{to{opacity:1}}
+</style>
+<rect width="494" height="194" x="0.5" y="0.5" rx="4.5" fill="#1a1b27"/>
+<text x="25" y="35" class="t fade">&#9889; Claude Code Usage</text>
+<line x1="262" y1="55" x2="262" y2="160" stroke="#2f334d" stroke-width="1"/>
+<g class="fade" style="animation-delay:150ms">
+<text x="25" y="112" class="big">12.6B</text>
+<text x="25" y="138" class="sub">tokens &#183; all-time</text>
+</g>
+<g class="fade" style="animation-delay:300ms"><text x="285" y="78" class="cur">USD</text><text x="470" y="78" text-anchor="end" class="curv">$ 13,165</text></g>
+<g class="fade" style="animation-delay:450ms"><text x="285" y="105" class="cur">KRW</text><text x="470" y="105" text-anchor="end" class="curv">₩ 19,621,525</text></g>
+<g class="fade" style="animation-delay:600ms"><text x="285" y="132" class="cur">EUR</text><text x="470" y="132" text-anchor="end" class="curv">€ 11,529</text></g>
+<g class="fade" style="animation-delay:750ms"><text x="285" y="159" class="cur">CNY</text><text x="470" y="159" text-anchor="end" class="curv">¥ 89,282</text></g>
+<text x="25" y="180" class="foot fade" style="animation-delay:900ms">API-equivalent cost &#183; auto-updated 2026-07-15</text>
+</svg>
