@@ -14,27 +14,27 @@
 
 ## 🔧 Technologies & Tools
 
-![](https://img.shields.io/badge/Code-C%2B%2B-informational?style=flat&logo=cplusplus&logoColor=white&color=2b2b2b)
-![](https://img.shields.io/badge/Code-CUDA-informational?style=flat&logo=nvidia&logoColor=white&color=2b2b2b)
-![](https://img.shields.io/badge/Code-Rust-informational?style=flat&logo=rust&logoColor=white&color=2b2b2b)
-![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=2b2b2b)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2b2b2b)
+![](https://raw.githubusercontent.com/DGO0/DGO0/main/badges/code-cpp.svg)
+![](https://raw.githubusercontent.com/DGO0/DGO0/main/badges/code-cuda.svg)
+![](https://raw.githubusercontent.com/DGO0/DGO0/main/badges/code-rust.svg)
+![](https://raw.githubusercontent.com/DGO0/DGO0/main/badges/code-typescript.svg)
+![](https://raw.githubusercontent.com/DGO0/DGO0/main/badges/code-python.svg)
 
-![](https://img.shields.io/badge/Graphics-OpenGL-informational?style=flat&logo=opengl&logoColor=white&color=2b2b2b)
-![](https://img.shields.io/badge/Graphics-WebGL-informational?style=flat&logo=webgl&logoColor=white&color=2b2b2b)
-![](https://img.shields.io/badge/Graphics-WebGPU-informational?style=flat&logo=webgpu&logoColor=white&color=2b2b2b)
-![](https://img.shields.io/badge/Graphics-Three.js-informational?style=flat&logo=threedotjs&logoColor=white&color=2b2b2b)
+![](https://raw.githubusercontent.com/DGO0/DGO0/main/badges/graphics-opengl.svg)
+![](https://raw.githubusercontent.com/DGO0/DGO0/main/badges/graphics-webgl.svg)
+![](https://raw.githubusercontent.com/DGO0/DGO0/main/badges/graphics-webgpu.svg)
+![](https://raw.githubusercontent.com/DGO0/DGO0/main/badges/graphics-threejs.svg)
 
-![](https://img.shields.io/badge/Web-React-informational?style=flat&logo=react&logoColor=white&color=2b2b2b)
-![](https://img.shields.io/badge/Web-Node.js-informational?style=flat&logo=nodedotjs&logoColor=white&color=2b2b2b)
-![](https://img.shields.io/badge/Web-FastAPI-informational?style=flat&logo=fastapi&logoColor=white&color=2b2b2b)
-![](https://img.shields.io/badge/Edge-Cloudflare_Workers-informational?style=flat&logo=cloudflareworkers&logoColor=white&color=2b2b2b)
+![](https://raw.githubusercontent.com/DGO0/DGO0/main/badges/web-react.svg)
+![](https://raw.githubusercontent.com/DGO0/DGO0/main/badges/web-nodejs.svg)
+![](https://raw.githubusercontent.com/DGO0/DGO0/main/badges/web-fastapi.svg)
+![](https://raw.githubusercontent.com/DGO0/DGO0/main/badges/edge-cf-workers.svg)
 
-![](https://img.shields.io/badge/DB-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2b2b2b)
-![](https://img.shields.io/badge/DB-Supabase-informational?style=flat&logo=supabase&logoColor=white&color=2b2b2b)
-![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2b2b2b)
-![](https://img.shields.io/badge/Tools-Figma-informational?style=flat&logo=figma&logoColor=white&color=2b2b2b)
-![](https://img.shields.io/badge/AI-Claude_Code-informational?style=flat&logo=anthropic&logoColor=white&color=2b2b2b)
+![](https://raw.githubusercontent.com/DGO0/DGO0/main/badges/db-postgresql.svg)
+![](https://raw.githubusercontent.com/DGO0/DGO0/main/badges/db-supabase.svg)
+![](https://raw.githubusercontent.com/DGO0/DGO0/main/badges/tools-docker.svg)
+![](https://raw.githubusercontent.com/DGO0/DGO0/main/badges/tools-figma.svg)
+![](https://raw.githubusercontent.com/DGO0/DGO0/main/badges/ai-claude-code.svg)
 
 ## 📊 GitHub
 
