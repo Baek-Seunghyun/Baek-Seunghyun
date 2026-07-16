@@ -14,6 +14,8 @@
 
 <sub>Want this card on your profile? → [Baek-Seunghyun/ai-coding-usage-card](https://github.com/Baek-Seunghyun/ai-coding-usage-card)</sub>
 
+<a href="https://www.groble.im/products/aAVpJN"><img src="https://img.shields.io/badge/Buy%20me%20a%20coffee-2b2b2b?style=for-the-badge&logo=buymeacoffee&logoColor=4ade80" alt="Buy me a coffee" /></a>
+
 ## 💼 Experience
 
 **CTO @ ONOFFER · 7 years of engineering**
