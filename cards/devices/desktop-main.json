@@ -1,14 +1,14 @@
 {
   "version": 2,
   "device": "desktop-main",
-  "updatedAt": "2026-07-23T02:17:09.451Z",
+  "updatedAt": "2026-07-23T02:17:16.696Z",
   "totals": {
-    "totalTokens": 13361958223,
-    "inputTokens": 39610159,
-    "outputTokens": 66286254,
-    "cacheCreationTokens": 606852155,
-    "cacheReadTokens": 12649209655,
-    "totalCost": 13572.883900800003
+    "totalTokens": 13362105221,
+    "inputTokens": 39622096,
+    "outputTokens": 66287370,
+    "cacheCreationTokens": 606873879,
+    "cacheReadTokens": 12649321876,
+    "totalCost": 13572.995689000005
   },
   "daily": [
     {
@@ -888,21 +888,21 @@
     },
     {
       "period": "2026-07-23",
-      "totalTokens": 9317055,
-      "inputTokens": 37935,
-      "outputTokens": 84146,
-      "cacheCreationTokens": 622405,
-      "cacheReadTokens": 8572569,
-      "totalCost": 4.187856299999999,
+      "totalTokens": 9464053,
+      "inputTokens": 49872,
+      "outputTokens": 85262,
+      "cacheCreationTokens": 644129,
+      "cacheReadTokens": 8684790,
+      "totalCost": 4.299644499999999,
       "modelBreakdowns": [
         {
           "modelName": "claude-sonnet-5",
-          "cost": 4.187856299999999,
+          "cost": 4.299644499999999,
           "totalTokens": 0,
-          "inputTokens": 37935,
-          "outputTokens": 84146,
-          "cacheCreationTokens": 622405,
-          "cacheReadTokens": 8572569,
+          "inputTokens": 49872,
+          "outputTokens": 85262,
+          "cacheCreationTokens": 644129,
+          "cacheReadTokens": 8684790,
           "totalCost": 0
         }
       ]
