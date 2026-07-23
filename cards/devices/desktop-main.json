@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "device": "desktop-main",
+  "updatedAt": "2026-07-23T02:14:34.298Z",
+  "totals": {
+    "totalTokens": 0,
+    "inputTokens": 0,
+    "outputTokens": 0,
+    "cacheCreationTokens": 0,
+    "cacheReadTokens": 0,
+    "totalCost": 0
+  },
+  "daily": [],
+  "toolDaily": {},
+  "toolLegacy": {},
+  "baseline": {
+    "totalTokens": 347358832,
+    "totalCost": 389.30395549999594,
+    "note": "pre-ledger retention loss (observed 2026-07-22 report vs disk at seed)"
+  }
+}
