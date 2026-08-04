@@ -1,14 +1,14 @@
 {
   "version": 2,
   "device": "desktop-main",
-  "updatedAt": "2026-08-03T00:00:33.920Z",
+  "updatedAt": "2026-08-04T00:00:26.548Z",
   "totals": {
-    "totalTokens": 19058605677,
-    "inputTokens": 40631605,
-    "outputTokens": 86187671,
-    "cacheCreationTokens": 907843583,
-    "cacheReadTokens": 18023942818,
-    "totalCost": 20176.931563600003
+    "totalTokens": 19814692780,
+    "inputTokens": 40723965,
+    "outputTokens": 88065980,
+    "cacheCreationTokens": 932851684,
+    "cacheReadTokens": 18753051151,
+    "totalCost": 20829.871870600004
   },
   "daily": [
     {
@@ -1263,11 +1263,52 @@
           "totalCost": 0
         }
       ]
+    },
+    {
+      "period": "2026-08-03",
+      "totalTokens": 756087103,
+      "inputTokens": 92360,
+      "outputTokens": 1878309,
+      "cacheCreationTokens": 25008101,
+      "cacheReadTokens": 729108333,
+      "totalCost": 652.9403069999996,
+      "modelBreakdowns": [
+        {
+          "modelName": "claude-opus-5",
+          "cost": 640.6605339999996,
+          "totalTokens": 0,
+          "inputTokens": 50554,
+          "outputTokens": 1835920,
+          "cacheCreationTokens": 24707079,
+          "cacheReadTokens": 725027963,
+          "totalCost": 0
+        },
+        {
+          "modelName": "claude-fable-5",
+          "cost": 11.865846000000001,
+          "totalTokens": 0,
+          "inputTokens": 31,
+          "outputTokens": 36851,
+          "cacheCreationTokens": 301022,
+          "cacheReadTokens": 4002546,
+          "totalCost": 0
+        },
+        {
+          "modelName": "gpt-5.5",
+          "cost": 0.41392700000000004,
+          "totalTokens": 0,
+          "inputTokens": 41775,
+          "outputTokens": 5538,
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 77824,
+          "totalCost": 0
+        }
+      ]
     }
   ],
   "toolDaily": {
     "Codex": {
-      "undefined": 0.043673000000000003
+      "undefined": 0.41392700000000004
     },
     "Gemini": {},
     "Copilot": {}
