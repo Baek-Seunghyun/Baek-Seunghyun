@@ -1,14 +1,14 @@
 {
   "version": 2,
   "device": "desktop-main",
-  "updatedAt": "2026-08-25T00:00:06.775Z",
+  "updatedAt": "2026-08-26T00:00:07.220Z",
   "totals": {
-    "totalTokens": 29395413371,
-    "inputTokens": 45239594,
-    "outputTokens": 117609092,
-    "cacheCreationTokens": 1429179406,
-    "cacheReadTokens": 27803385279,
-    "totalCost": 33320.282635749994
+    "totalTokens": 29754987209,
+    "inputTokens": 45799913,
+    "outputTokens": 118912972,
+    "cacheCreationTokens": 1445507311,
+    "cacheReadTokens": 28144767013,
+    "totalCost": 33795.930104399995
   },
   "daily": [
     {
@@ -2186,12 +2186,12 @@
     },
     {
       "period": "2026-08-25",
-      "totalTokens": 39789182,
-      "inputTokens": 8162,
-      "outputTokens": 45045,
-      "cacheCreationTokens": 4087125,
-      "cacheReadTokens": 35648850,
-      "totalCost": 59.0565412,
+      "totalTokens": 363779357,
+      "inputTokens": 568362,
+      "outputTokens": 1325739,
+      "cacheCreationTokens": 15816453,
+      "cacheReadTokens": 346068803,
+      "totalCost": 472.6571043500001,
       "modelBreakdowns": [
         {
           "modelName": "claude-opus-4-8",
@@ -2205,12 +2205,63 @@
         },
         {
           "modelName": "claude-sonnet-5",
-          "cost": 0.3509767,
+          "cost": 26.642373699999986,
           "totalTokens": 0,
-          "inputTokens": 8023,
-          "outputTokens": 9941,
-          "cacheCreationTokens": 74561,
-          "cacheReadTokens": 245591,
+          "inputTokens": 236115,
+          "outputTokens": 596196,
+          "cacheCreationTokens": 3111545,
+          "cacheReadTokens": 62146606,
+          "totalCost": 0
+        },
+        {
+          "modelName": "claude-fable-5",
+          "cost": 315.97799500000013,
+          "totalTokens": 0,
+          "inputTokens": 126974,
+          "outputTokens": 492030,
+          "cacheCreationTokens": 6668796,
+          "cacheReadTokens": 156730835,
+          "totalCost": 0
+        },
+        {
+          "modelName": "claude-opus-5",
+          "cost": 70.18708474999998,
+          "totalTokens": 0,
+          "inputTokens": 57639,
+          "outputTokens": 190632,
+          "cacheCreationTokens": 2023548,
+          "cacheReadTokens": 90991687,
+          "totalCost": 0
+        },
+        {
+          "modelName": "gpt-5.6-sol",
+          "cost": 1.1440864,
+          "totalTokens": 0,
+          "inputTokens": 147495,
+          "outputTokens": 11777,
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 796416,
+          "totalCost": 0
+        }
+      ]
+    },
+    {
+      "period": "2026-08-26",
+      "totalTokens": 35583663,
+      "inputTokens": 119,
+      "outputTokens": 23186,
+      "cacheCreationTokens": 4598577,
+      "cacheReadTokens": 30961781,
+      "totalCost": 62.04690550000001,
+      "modelBreakdowns": [
+        {
+          "modelName": "claude-opus-5",
+          "cost": 62.04690550000001,
+          "totalTokens": 0,
+          "inputTokens": 119,
+          "outputTokens": 23186,
+          "cacheCreationTokens": 4598577,
+          "cacheReadTokens": 30961781,
           "totalCost": 0
         }
       ]
