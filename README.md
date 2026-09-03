@@ -3,7 +3,7 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Baek-Seunghyun&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub stats" />
+<img height="165" src="https://raw.githubusercontent.com/Baek-Seunghyun/Baek-Seunghyun/main/cards/stats.svg" alt="GitHub stats" />
 <img height="165" src="https://streak-stats.demolab.com?user=Baek-Seunghyun&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 
 </div>
