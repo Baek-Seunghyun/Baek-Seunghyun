@@ -1,4 +1,5 @@
-# Refreshes cards/stats.svg daily with the built-in token — no third-party host, no PAT to expire.
+# Refreshes cards/stats.svg daily. Needs repo secret PAT_1 (GITHUB_TOKEN cannot read stargazers on private repos:
+# "Resource not accessible by integration"). Without the secret the run skips and the last SVG stays.
 name: stats card
 on:
   schedule:
@@ -15,9 +16,11 @@ jobs:
         with:
           node-version: 22
       - run: git clone --depth 1 https://github.com/anuraghazra/github-readme-stats && cd github-readme-stats && npm ci --omit=dev --ignore-scripts
-      - run: node cards/gen-stats.mjs
+      - run: |
+          if [ -z "$PAT_1" ]; then echo '::warning::PAT_1 secret not set, skipping refresh'; exit 0; fi
+          node cards/gen-stats.mjs
         env:
-          PAT_1: ${{ secrets.GITHUB_TOKEN }}
+          PAT_1: ${{ secrets.PAT_1 }}
       - run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
