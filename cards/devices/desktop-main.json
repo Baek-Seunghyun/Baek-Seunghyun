@@ -1,14 +1,14 @@
 {
   "version": 2,
   "device": "desktop-main",
-  "updatedAt": "2026-09-06T00:00:05.687Z",
+  "updatedAt": "2026-09-07T00:00:06.738Z",
   "totals": {
-    "totalTokens": 33287028403,
-    "inputTokens": 50976563,
-    "outputTokens": 134667418,
-    "cacheCreationTokens": 1622885712,
-    "cacheReadTokens": 31478498710,
-    "totalCost": 38138.81417015
+    "totalTokens": 33351692051,
+    "inputTokens": 50980070,
+    "outputTokens": 134699897,
+    "cacheCreationTokens": 1623059666,
+    "cacheReadTokens": 31542952418,
+    "totalCost": 38160.06569715
   },
   "daily": [
     {
@@ -2737,21 +2737,42 @@
     },
     {
       "period": "2026-09-06",
-      "totalTokens": 17448186,
-      "inputTokens": 1120,
-      "outputTokens": 10580,
-      "cacheCreationTokens": 63090,
-      "cacheReadTokens": 17373396,
-      "totalCost": 6.145348999999999,
+      "totalTokens": 58143964,
+      "inputTokens": 3507,
+      "outputTokens": 32419,
+      "cacheCreationTokens": 173954,
+      "cacheReadTokens": 57934084,
+      "totalCost": 19.61862099999999,
       "modelBreakdowns": [
         {
           "modelName": "claude-fable-5-1",
-          "cost": 6.145348999999999,
+          "cost": 19.61862099999999,
+          "totalTokens": 0,
+          "inputTokens": 3507,
+          "outputTokens": 32419,
+          "cacheCreationTokens": 173954,
+          "cacheReadTokens": 57934084,
+          "totalCost": 0
+        }
+      ]
+    },
+    {
+      "period": "2026-09-07",
+      "totalTokens": 23967870,
+      "inputTokens": 1120,
+      "outputTokens": 10640,
+      "cacheCreationTokens": 63090,
+      "cacheReadTokens": 23893020,
+      "totalCost": 7.778255,
+      "modelBreakdowns": [
+        {
+          "modelName": "claude-fable-5-1",
+          "cost": 7.778255,
           "totalTokens": 0,
           "inputTokens": 1120,
-          "outputTokens": 10580,
+          "outputTokens": 10640,
           "cacheCreationTokens": 63090,
-          "cacheReadTokens": 17373396,
+          "cacheReadTokens": 23893020,
           "totalCost": 0
         }
       ]
