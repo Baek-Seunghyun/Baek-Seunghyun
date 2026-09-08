@@ -1,14 +1,14 @@
 {
   "version": 2,
   "device": "desktop-main",
-  "updatedAt": "2026-09-07T00:00:06.738Z",
+  "updatedAt": "2026-09-08T00:00:17.057Z",
   "totals": {
-    "totalTokens": 33351692051,
-    "inputTokens": 50980070,
-    "outputTokens": 134699897,
-    "cacheCreationTokens": 1623059666,
-    "cacheReadTokens": 31542952418,
-    "totalCost": 38160.06569715
+    "totalTokens": 34239138907,
+    "inputTokens": 56576073,
+    "outputTokens": 137693788,
+    "cacheCreationTokens": 1644791324,
+    "cacheReadTokens": 32400077722,
+    "totalCost": 38972.680398950004
   },
   "daily": [
     {
@@ -2758,21 +2758,112 @@
     },
     {
       "period": "2026-09-07",
-      "totalTokens": 23967870,
-      "inputTokens": 1120,
-      "outputTokens": 10640,
-      "cacheCreationTokens": 63090,
-      "cacheReadTokens": 23893020,
-      "totalCost": 7.778255,
+      "totalTokens": 899246084,
+      "inputTokens": 5597033,
+      "outputTokens": 2958299,
+      "cacheCreationTokens": 20303765,
+      "cacheReadTokens": 870386987,
+      "totalCost": 799.5045403000006,
       "modelBreakdowns": [
         {
           "modelName": "claude-fable-5-1",
-          "cost": 7.778255,
+          "cost": 345.8220602500004,
           "totalTokens": 0,
-          "inputTokens": 1120,
-          "outputTokens": 10640,
-          "cacheCreationTokens": 63090,
-          "cacheReadTokens": 23893020,
+          "inputTokens": 70396,
+          "outputTokens": 1279228,
+          "cacheCreationTokens": 9026116,
+          "cacheReadTokens": 402537521,
+          "totalCost": 0
+        },
+        {
+          "modelName": "gpt-6-astra",
+          "cost": 224.20679600000003,
+          "totalTokens": 0,
+          "inputTokens": 3228407,
+          "outputTokens": 605579,
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 161643776,
+          "totalCost": 0
+        },
+        {
+          "modelName": "claude-opus-5",
+          "cost": 118.256202,
+          "totalTokens": 0,
+          "inputTokens": 1588,
+          "outputTokens": 452010,
+          "cacheCreationTokens": 6926651,
+          "cacheReadTokens": 123781879,
+          "totalCost": 0
+        },
+        {
+          "modelName": "gpt-5.6-sol",
+          "cost": 66.336496,
+          "totalTokens": 0,
+          "inputTokens": 2295898,
+          "outputTokens": 278330,
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 128965760,
+          "totalCost": 0
+        },
+        {
+          "modelName": "claude-opus-4-8",
+          "cost": 27.8605375,
+          "totalTokens": 0,
+          "inputTokens": 82,
+          "outputTokens": 77513,
+          "cacheCreationTokens": 1741343,
+          "cacheReadTokens": 17017745,
+          "totalCost": 0
+        },
+        {
+          "modelName": "claude-sonnet-5",
+          "cost": 16.889013399999996,
+          "totalTokens": 0,
+          "inputTokens": 636,
+          "outputTokens": 261402,
+          "cacheCreationTokens": 2523510,
+          "cacheReadTokens": 36394877,
+          "totalCost": 0
+        },
+        {
+          "modelName": "claude-haiku-4-5-20251001",
+          "cost": 0.13343515,
+          "totalTokens": 0,
+          "inputTokens": 26,
+          "outputTokens": 4237,
+          "cacheCreationTokens": 86145,
+          "cacheReadTokens": 45429,
+          "totalCost": 0
+        }
+      ]
+    },
+    {
+      "period": "2026-09-08",
+      "totalTokens": 12168642,
+      "inputTokens": 90,
+      "outputTokens": 46232,
+      "cacheCreationTokens": 1490983,
+      "cacheReadTokens": 10631337,
+      "totalCost": 20.888416500000005,
+      "modelBreakdowns": [
+        {
+          "modelName": "claude-opus-5",
+          "cost": 20.559528500000006,
+          "totalTokens": 0,
+          "inputTokens": 86,
+          "outputTokens": 40216,
+          "cacheCreationTokens": 1423803,
+          "cacheReadTokens": 10631337,
+          "totalCost": 0
+        },
+        {
+          "modelName": "claude-sonnet-5",
+          "cost": 0.32888799999999996,
+          "totalTokens": 0,
+          "inputTokens": 4,
+          "outputTokens": 6016,
+          "cacheCreationTokens": 67180,
+          "cacheReadTokens": 0,
           "totalCost": 0
         }
       ]
@@ -2780,7 +2871,7 @@
   ],
   "toolDaily": {
     "Codex": {
-      "undefined": 3.074155
+      "undefined": 290.543292
     },
     "Gemini": {},
     "Copilot": {}
