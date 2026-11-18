@@ -1,14 +1,14 @@
 {
   "version": 2,
   "device": "desktop-main",
-  "updatedAt": "2026-11-17T00:01:35.824Z",
+  "updatedAt": "2026-11-18T00:01:42.493Z",
   "totals": {
-    "totalTokens": 93069417105,
-    "inputTokens": 267086164,
-    "outputTokens": 363784196,
-    "cacheCreationTokens": 2757073256,
-    "cacheReadTokens": 89682022262,
-    "totalCost": 72201.64124116003
+    "totalTokens": 94671093053,
+    "inputTokens": 267677161,
+    "outputTokens": 370805090,
+    "cacheCreationTokens": 2786073407,
+    "cacheReadTokens": 91247086168,
+    "totalCost": 72930.80174166003
   },
   "daily": [
     {
@@ -6197,41 +6197,92 @@
     },
     {
       "period": "2026-11-17",
-      "totalTokens": 125178431,
-      "inputTokens": 2002,
-      "outputTokens": 874878,
-      "cacheCreationTokens": 3723075,
-      "cacheReadTokens": 120578476,
-      "totalCost": 68.54591440000006,
+      "totalTokens": 1552011234,
+      "inputTokens": 590103,
+      "outputTokens": 6702967,
+      "cacheCreationTokens": 26695234,
+      "cacheReadTokens": 1518022930,
+      "totalCost": 696.8824781999971,
       "modelBreakdowns": [
         {
           "modelName": "claude-opus-5-5",
-          "cost": 58.36385,
+          "cost": 560.0998422000006,
           "totalTokens": 0,
-          "inputTokens": 1760,
-          "outputTokens": 566624,
-          "cacheCreationTokens": 3170181,
-          "cacheReadTokens": 114445795,
+          "inputTokens": 12382,
+          "outputTokens": 5606759,
+          "cacheCreationTokens": 22374090,
+          "cacheReadTokens": 1390382921,
           "totalCost": 0
         },
         {
           "modelName": "claude-fable-5-2",
-          "cost": 6.0228085999999985,
+          "cost": 94.37597300000003,
           "totalTokens": 0,
-          "inputTokens": 104,
-          "outputTokens": 27340,
-          "cacheCreationTokens": 247296,
-          "cacheReadTokens": 4858203,
+          "inputTokens": 2016,
+          "outputTokens": 618716,
+          "cacheCreationTokens": 3106650,
+          "cacheReadTokens": 99524025,
           "totalCost": 0
         },
         {
           "modelName": "claude-sonnet-5-5",
-          "cost": 4.1592558,
+          "cost": 8.73858,
           "totalTokens": 0,
-          "inputTokens": 138,
-          "outputTokens": 280914,
-          "cacheCreationTokens": 305598,
-          "cacheReadTokens": 1274478,
+          "inputTokens": 346,
+          "outputTokens": 345499,
+          "cacheCreationTokens": 1214494,
+          "cacheReadTokens": 8134160,
+          "totalCost": 0
+        },
+        {
+          "modelName": "gpt-6-astra",
+          "cost": 33.668082999999996,
+          "totalTokens": 0,
+          "inputTokens": 575359,
+          "outputTokens": 131993,
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 19981824,
+          "totalCost": 0
+        }
+      ]
+    },
+    {
+      "period": "2026-11-18",
+      "totalTokens": 174843145,
+      "inputTokens": 2896,
+      "outputTokens": 1192805,
+      "cacheCreationTokens": 6027992,
+      "cacheReadTokens": 167619452,
+      "totalCost": 100.8239366999999,
+      "modelBreakdowns": [
+        {
+          "modelName": "claude-opus-5-5",
+          "cost": 90.89233339999987,
+          "totalTokens": 0,
+          "inputTokens": 2656,
+          "outputTokens": 887059,
+          "cacheCreationTokens": 5335741,
+          "cacheReadTokens": 163716957,
+          "totalCost": 0
+        },
+        {
+          "modelName": "claude-fable-5-2",
+          "cost": 5.0921396,
+          "totalTokens": 0,
+          "inputTokens": 52,
+          "outputTokens": 14448,
+          "cacheCreationTokens": 255939,
+          "cacheReadTokens": 2093898,
+          "totalCost": 0
+        },
+        {
+          "modelName": "claude-sonnet-5-5",
+          "cost": 4.8394637000000005,
+          "totalTokens": 0,
+          "inputTokens": 188,
+          "outputTokens": 291298,
+          "cacheCreationTokens": 436312,
+          "cacheReadTokens": 1808597,
           "totalCost": 0
         }
       ]
