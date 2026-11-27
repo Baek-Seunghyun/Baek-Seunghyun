@@ -1,14 +1,14 @@
 {
   "version": 2,
   "device": "desktop-main",
-  "updatedAt": "2026-11-26T00:03:44.118Z",
+  "updatedAt": "2026-11-27T00:03:28.925Z",
   "totals": {
-    "totalTokens": 104025688466,
-    "inputTokens": 271137832,
-    "outputTokens": 414659975,
-    "cacheCreationTokens": 3034442425,
-    "cacheReadTokens": 100305997007,
-    "totalCost": 77414.10991320504
+    "totalTokens": 104945024646,
+    "inputTokens": 271146184,
+    "outputTokens": 418907960,
+    "cacheCreationTokens": 3059126243,
+    "cacheReadTokens": 101196393032,
+    "totalCost": 77833.14098630504
   },
   "daily": [
     {
@@ -6736,41 +6736,92 @@
     },
     {
       "period": "2026-11-26",
-      "totalTokens": 222404935,
-      "inputTokens": 3864,
-      "outputTokens": 2241812,
-      "cacheCreationTokens": 12446673,
-      "cacheReadTokens": 207712586,
-      "totalCost": 179.95973789999982,
+      "totalTokens": 1111834677,
+      "inputTokens": 11440,
+      "outputTokens": 5915035,
+      "cacheCreationTokens": 33842997,
+      "cacheReadTokens": 1072065205,
+      "totalCost": 568.0503333999997,
       "modelBreakdowns": [
         {
           "modelName": "claude-opus-5-5",
-          "cost": 154.3109179999998,
+          "cost": 452.07363539999943,
           "totalTokens": 0,
-          "inputTokens": 3424,
-          "outputTokens": 1889114,
-          "cacheCreationTokens": 9900574,
-          "cacheReadTokens": 196198235,
+          "inputTokens": 8590,
+          "outputTokens": 4815153,
+          "cacheCreationTokens": 21733229,
+          "cacheReadTokens": 965177882,
           "totalCost": 0
         },
         {
           "modelName": "claude-fable-5-2",
-          "cost": 14.565365599999998,
+          "cost": 68.30183800000003,
           "totalTokens": 0,
-          "inputTokens": 48,
-          "outputTokens": 9803,
-          "cacheCreationTokens": 851080,
-          "cacheReadTokens": 2777908,
+          "inputTokens": 1272,
+          "outputTokens": 379854,
+          "cacheCreationTokens": 2549976,
+          "cacheReadTokens": 61489430,
           "totalCost": 0
         },
         {
           "modelName": "claude-sonnet-5-5",
-          "cost": 11.083454299999996,
+          "cost": 47.66768779999998,
           "totalTokens": 0,
-          "inputTokens": 392,
-          "outputTokens": 342895,
-          "cacheCreationTokens": 1695019,
-          "cacheReadTokens": 8736443,
+          "inputTokens": 1568,
+          "outputTokens": 714675,
+          "cacheCreationTokens": 9528792,
+          "cacheReadTokens": 45335923,
+          "totalCost": 0
+        },
+        {
+          "modelName": "claude-haiku-5-5",
+          "cost": 0.007172199999999999,
+          "totalTokens": 0,
+          "inputTokens": 10,
+          "outputTokens": 5353,
+          "cacheCreationTokens": 31000,
+          "cacheReadTokens": 61970,
+          "totalCost": 0
+        }
+      ]
+    },
+    {
+      "period": "2026-11-27",
+      "totalTokens": 29906438,
+      "inputTokens": 776,
+      "outputTokens": 574762,
+      "cacheCreationTokens": 3287494,
+      "cacheReadTokens": 26043406,
+      "totalCost": 30.9404776,
+      "modelBreakdowns": [
+        {
+          "modelName": "claude-opus-5-5",
+          "cost": 18.0039,
+          "totalTokens": 0,
+          "inputTokens": 388,
+          "outputTokens": 211609,
+          "cacheCreationTokens": 1494572,
+          "cacheReadTokens": 18295750,
+          "totalCost": 0
+        },
+        {
+          "modelName": "claude-sonnet-5-5",
+          "cost": 11.126153599999999,
+          "totalTokens": 0,
+          "inputTokens": 386,
+          "outputTokens": 362922,
+          "cacheCreationTokens": 1680349,
+          "cacheReadTokens": 7747656,
+          "totalCost": 0
+        },
+        {
+          "modelName": "claude-fable-5-2",
+          "cost": 1.8104239999999998,
+          "totalTokens": 0,
+          "inputTokens": 2,
+          "outputTokens": 231,
+          "cacheCreationTokens": 112573,
+          "cacheReadTokens": 0,
           "totalCost": 0
         }
       ]
